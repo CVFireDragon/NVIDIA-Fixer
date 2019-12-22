@@ -7,3 +7,6 @@ a tool that helps you fix geforce experience recording
 run it as admin or it won't work (batch and exe)
 
 exe created by bat to exe converter by [Fatih Kodak](https://github.com/99fk)
+
+## Extra
+gui and site coming soon :)
