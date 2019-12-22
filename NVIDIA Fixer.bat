@@ -12,6 +12,7 @@ echo Thanks for using the Automated NVIDIA Fixing Tool!
 echo Please wait for a minute and then try to use GeForce Experience.
 ECHO. 
 echo ----------------------------------------------------------------
+ECHO.
 echo Tool created by @CVFD_ / CVFD#6480 / https://bit.ly/2EIDMxc
 ECHO.
 echo ----------------------------------------------------------------
